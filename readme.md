@@ -30,4 +30,5 @@ All of Forti's colours can be customised to whatever colourscheme you like. In W
 
 # Customise The Hero Slider
 Forti's hero slider is fully customisable. In WP admin, just navigate to **Forti Hero Options** to do add your own images and content.
+
 ![forti-hero-options](https://github.com/Mr-Forder/wp-forti-theme/assets/66869833/7d1bc0a5-ed03-4d14-a223-148ff8e50acc)
