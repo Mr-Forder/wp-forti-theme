@@ -26,6 +26,7 @@ In your WP admin area, navigate to **appearance>themes** and activate Forti.
 
 # Customise Forti Colours
 All of Forti's colours can be customised to whatever colourscheme you like. In WP admin, just navigate to **Forti Colour Options** to do so. Play around and see what kind of look you can give Forti!
+
 ![forti-colours](https://github.com/Mr-Forder/wp-forti-theme/assets/66869833/e3c90996-d4d5-4423-bbee-4e4a105f4d18)
 
 # Customise The Hero Slider
