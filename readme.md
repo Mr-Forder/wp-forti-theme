@@ -8,8 +8,7 @@
 
 ## Description
 
-Forti is a stylish minimal theme with animated hero slider and full colour customisation options, Best suited for STEM based sites.
-
+Forti is a stylish minimal theme with animated hero slider and full colour customisation options, Best suited for STEM based sites. [Demo](https://forti-demo.netlify.app).
 ## Getting Started
 Make sure you have Composer installed first.
 
